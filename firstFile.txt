@@ -1,7 +1,7 @@
 1 step 18
 2 step 18
-3
-4
+3 step 19
+4 step 19
 5
 6
 7
