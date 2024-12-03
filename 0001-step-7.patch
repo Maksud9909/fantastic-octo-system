@@ -1,0 +1,22 @@
+From 9ec360f01017aa47b8ff35c8b076bd8319892279 Mon Sep 17 00:00:00 2001
+From: maksud9909 <rmaksud822@gmail.com>
+Date: Tue, 3 Dec 2024 12:15:00 +0500
+Subject: [PATCH] step 7
+
+---
+ firstFile.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..08fe19c 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -8,3 +8,5 @@
+ 8
+ 9
+ 10
++11
++12
+-- 
+2.45.2
+
